@@ -1,0 +1,16 @@
+.footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:10px;
+    }
+    
+    .footer img{
+    width: 4px;
+    margin:4px;
+    transition:0.3s;
+    }
+    
+    .footer img:hover{
+    transform:scale(1.2);
+    }
